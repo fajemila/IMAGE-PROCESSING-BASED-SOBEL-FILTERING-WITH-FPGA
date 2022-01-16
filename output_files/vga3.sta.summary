@@ -1,0 +1,269 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -13.995
+TNS   : -108.749
+
+Type  : Slow 1200mV 85C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -13.776
+TNS   : -103.825
+
+Type  : Slow 1200mV 85C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -8.938
+TNS   : -265.035
+
+Type  : Slow 1200mV 85C Model Setup 'clk50MH'
+Slack : -4.989
+TNS   : -227.190
+
+Type  : Slow 1200mV 85C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.625
+TNS   : -29.794
+
+Type  : Slow 1200mV 85C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.468
+TNS   : -1.981
+
+Type  : Slow 1200mV 85C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.177
+TNS   : -0.518
+
+Type  : Slow 1200mV 85C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk50MH'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : 1.230
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -3.471
+TNS   : -31.239
+
+Type  : Slow 1200mV 85C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.379
+TNS   : -12.411
+
+Type  : Slow 1200mV 85C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -1.160
+TNS   : -10.440
+
+Type  : Slow 1200mV 85C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -2.678
+TNS   : -2.939
+
+Type  : Slow 1200mV 85C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.387
+TNS   : -2.387
+
+Type  : Slow 1200mV 85C Model Removal 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 2.374
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk50MH'
+Slack : -3.000
+TNS   : -166.426
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.403
+TNS   : -37.881
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -0.589
+TNS   : -74.258
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.650
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.851
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -12.343
+TNS   : -90.493
+
+Type  : Slow 1200mV 0C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -12.134
+TNS   : -85.895
+
+Type  : Slow 1200mV 0C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -8.651
+TNS   : -256.849
+
+Type  : Slow 1200mV 0C Model Setup 'clk50MH'
+Slack : -4.845
+TNS   : -214.028
+
+Type  : Slow 1200mV 0C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.408
+TNS   : -24.873
+
+Type  : Slow 1200mV 0C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.688
+TNS   : -4.554
+
+Type  : Slow 1200mV 0C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.413
+TNS   : -1.547
+
+Type  : Slow 1200mV 0C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk50MH'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : 1.234
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -3.394
+TNS   : -30.546
+
+Type  : Slow 1200mV 0C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.881
+TNS   : -7.929
+
+Type  : Slow 1200mV 0C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.672
+TNS   : -6.048
+
+Type  : Slow 1200mV 0C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -2.719
+TNS   : -5.626
+
+Type  : Slow 1200mV 0C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.444
+TNS   : -2.876
+
+Type  : Slow 1200mV 0C Model Removal 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 2.428
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk50MH'
+Slack : -3.000
+TNS   : -160.730
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.403
+TNS   : -37.881
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -0.590
+TNS   : -63.058
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.561
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.798
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.574
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.528
+TNS   : -40.651
+
+Type  : Fast 1200mV 0C Model Setup 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -5.443
+TNS   : -38.781
+
+Type  : Fast 1200mV 0C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -3.913
+TNS   : -114.348
+
+Type  : Fast 1200mV 0C Model Setup 'clk50MH'
+Slack : -2.015
+TNS   : -74.946
+
+Type  : Fast 1200mV 0C Model Setup 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -0.084
+TNS   : -0.756
+
+Type  : Fast 1200mV 0C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.430
+TNS   : -5.503
+
+Type  : Fast 1200mV 0C Model Hold 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.315
+TNS   : -3.433
+
+Type  : Fast 1200mV 0C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk50MH'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.186
+TNS   : -10.674
+
+Type  : Fast 1200mV 0C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.606
+TNS   : -5.454
+
+Type  : Fast 1200mV 0C Model Recovery 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.521
+TNS   : -4.689
+
+Type  : Fast 1200mV 0C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -1.365
+TNS   : -1.365
+
+Type  : Fast 1200mV 0C Model Removal 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.250
+TNS   : -1.250
+
+Type  : Fast 1200mV 0C Model Removal 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : 1.006
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk50MH'
+Slack : -3.000
+TNS   : -78.970
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|sync_signal_delayer:Delayer|rsync2'
+Slack : -1.000
+TNS   : -27.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'my_sobel_sync:myDisp|sobel_wrapper:mysobel|CacheSystem:CacheSystem|Counter:ColsCounter|num[0]'
+Slack : -0.044
+TNS   : -1.900
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.583
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.660
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'myclk|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.567
+TNS   : 0.000
+
+------------------------------------------------------------

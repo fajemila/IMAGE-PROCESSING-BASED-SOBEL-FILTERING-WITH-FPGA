@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sat Jan 15 16:21:17 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : vga3
+Top-level Entity Name : vga3
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 591 / 49,760 ( 1 % )
+    Total combinational functions : 515 / 49,760 ( 1 % )
+    Dedicated logic registers : 286 / 49,760 ( < 1 % )
+Total registers : 286
+Total pins : 26 / 360 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 267,264 / 1,677,312 ( 16 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
